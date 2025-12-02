@@ -1,4 +1,3 @@
-import numpy as np
 from sympy import divisors
 
 def read_data(input_file: str) -> list[range]:
